@@ -26,8 +26,8 @@ Boston, MA 02345\\}
 Boston, MA 02123\\}
 \\
 (hereinafter the ``Consultant'').  This Agreement is with respect to the
-development of software for the Client, hereinafter referred to as the
-``Work.''   Whereas, Consultant is a professional software developer of good
+design of software for the Client, hereinafter referred to as the
+``Work.''   Whereas, Consultant is a professional researcher of good
 standing; Whereas, Client wishes Consultant to create certain Work described
 more fully herein; and Whereas, Consultant wishes to create such Work; Now,
 therefore, in consideration of the foregoing premises and the mutual
@@ -37,18 +37,15 @@ parties hereto agree as follows:
 
 \section{Services}
 
-Consultant will provide software development services for a [SHORT
+Consultant will provide design services for a [SHORT
   DESCRIPTION OF PRODUCT HERE].  Components and features of this site will
 be determined collaboratively by Client and Consultant, and are expected to
 include [KEY FEATURES IF DESIRED].
 
 Consultant's responsibilities will include collaborating with Client to
 establish software requirements and priorities based on Client's business
-goals; development of software in accordance with these requirements and
-priorities; deployment of such software onto internet-accessible systems;
-and administration of such systems.  In support of these goals, Client is
-expected to work with Consultant to set priorities, review software as it is
-developed, and produce product research and specifications as required.
+goals.  In support of these goals, Client is
+expected to work with Consultant to set priorities, and produce product research and specifications as required.
 Client and Consultant will arrange periodic meetings and phone discussions
 to support this collaboration.
 
